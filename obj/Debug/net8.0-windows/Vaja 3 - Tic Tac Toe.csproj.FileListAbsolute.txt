@@ -1,0 +1,21 @@
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe_MarkupCompile.cache
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.g.resources
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.AssemblyInfo.cs
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\bin\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.exe
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\bin\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.deps.json
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\bin\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.runtimeconfig.json
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\bin\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.dll
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\bin\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.pdb
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.dll
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\refint\Vaja 3 - Tic Tac Toe.dll
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.pdb
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\Vaja 3 - Tic Tac Toe.genruntimeconfig.cache
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\ref\Vaja 3 - Tic Tac Toe.dll
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\GameWindow.baml
+C:\Users\jpoto\source\repos\Vaja 3 - Tic Tac Toe\obj\Debug\net8.0-windows\GameWindow.g.cs
